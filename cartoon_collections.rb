@@ -31,5 +31,6 @@ def find_valid_calls(planeteer_calls)
     if planateer_calls[element] == valid_calls.each |element| do valid_calls[element] end
       planateer_calls[element]
     end
+  end
   
 end
